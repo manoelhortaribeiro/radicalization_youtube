@@ -14,5 +14,15 @@ Please cite as:
       booktitle={Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency},
       year={2020}
     }
+    
+Roughly speaking:
+
+- `analyses/overview.ipynb` reproduces Fig. 1, and most of the tables in the paper;
+
+- `analyses/temporal_analysis.ipynb` reproduces Fig. 2.
+
+- `analyses/user_analysis.ipynb` reproduces Figures 3 and 4.
+
+- `analyses/channels_graph.ipynb` and `analyses/video_graph.ipynb` reproduces Fig. 5 and Table 3.
 
 [1]: https://www.youtube.com/watch?v=zju-J53S4W0
