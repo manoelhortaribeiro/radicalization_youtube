@@ -11,7 +11,8 @@ Please cite as:
 
     @inproceedings{ribeiro2020auditing,
       title={Auditing radicalization pathways on youtube},
-      author={Horta Ribeiro, Manoel and Ottoni, Raphael and West, Robert and Almeida, Virg{\'\i}lio AF and Meira Jr, Wagner},
+      author={Horta Ribeiro, Manoel and Ottoni, Raphael and West, Robert 
+              and Almeida, Virg{\'\i}lio AF and Meira Jr, Wagner},
       booktitle={Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency},
       year={2020}
     }
